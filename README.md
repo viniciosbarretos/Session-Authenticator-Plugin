@@ -27,6 +27,6 @@
   2. Descompactar o arquivo
   
 - Dica
-  Nesse link tem mais detalhes dos parâmetros possíveis: https://github.com/Arachni/arachni/wiki/Command-line-user-interface#scope-exclude-pattern
+  1. Nesse link tem mais detalhes dos parâmetros possíveis: https://github.com/Arachni/arachni/wiki/Command-line-user-interface#scope-exclude-pattern
   
 
