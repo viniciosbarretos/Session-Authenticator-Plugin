@@ -5,7 +5,13 @@
   2. arachni.sh
   3. report.sh
    
-- Instala
-Para instalar a extensão basta ir em chrome://extensions/ e arrastar o arquivo .crx para o chrome.
-Feito isso, esta já estará funcionando corretamente.
+- Instalação
+  1. Para instalar a extensão basta ir em chrome://extensions/ e arrastar o arquivo .crx para o chrome.
+ 
+- Uso
+  1. Entre no site, faça login e aguarde carregar
+  2. Clique no ícone do Cookie (Extensão)
+  3. O download iniciará automaticamente (Normalmalmente na pasta ~/Download)
+  4. Copie o link da página
+  
 
