@@ -1,7 +1,7 @@
-# ACME-Cookie
+# Session-Authenticator-Plugin
 
 - Arquivos
-  1. ACME! Cookie.crx
+  1. Session-Authenticator-Plugin.crx
   2. arachni.sh
   3. report.sh
    
